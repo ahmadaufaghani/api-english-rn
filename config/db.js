@@ -1,5 +1,5 @@
 module.exports = {
-    HOST: "localhost",
+    HOST: "https://expensive-flannel-shirt-moth.cyclic.app/",
     USER: "root",
     PASSWORD: "",
     DB: "quizapp",
